@@ -27,7 +27,7 @@ pip install -r requirements.txt
 ## 启动程序
 
 ```bash
-python window_guard.py
+python window_guard.pyw
 ```
 
 ## 使用说明
